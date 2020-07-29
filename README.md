@@ -17,14 +17,14 @@ This repo is a compliation of my personal notes and attempts at problem sets tak
 - 6: Expected Values for Discrete Random Variables
 - 7: Multiple Discrete Random Variables
 - 8: Conditional Probability Mass Functions
-- 9: Discrete $N$-Dimensional Random Variables
+- 9: Discrete N-Dimensional Random Variables
 
 #### Continuous
 - 10: Continuous Random Variables
 - 11: Expected Values for Continuous Random Variables
 - 12: Multiple Continuous Random Variables
 - 13: Conditional Probability Density Functions
-- 14: Continuous $N$-Dimensional Random Variables
+- 14: Continuous N-Dimensional Random Variables
 - 15: Probability and Moment Approximations Using Limit Theorems
 
 #### Random Processes
