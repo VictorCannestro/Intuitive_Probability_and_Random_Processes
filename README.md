@@ -7,31 +7,31 @@ This repo is a compliation of my personal notes and attempts at problem sets tak
 ## Contents:
 
 #### Foundational Concepts
-- [x] 1: Introduction
-- [x] 2: Computer Simulation
-- 3: Basic Probability
-- 4: Conditional Probability
+- [x] 1: Introduction (p1-12)
+- [x] 2: Computer Simulation (p13-36)
+- 3: Basic Probability (p37-72)
+- 4: Conditional Probability (p73-104)
 
 #### Discrete
-- 5: Discrete Random Variables
-- 6: Expected Values for Discrete Random Variables
-- 7: Multiple Discrete Random Variables
-- 8: Conditional Probability Mass Functions
-- 9: Discrete N-Dimensional Random Variables
+- 5: Discrete Random Variables (p105-132)
+- 6: Expected Values for Discrete Random Variables (p133-166)
+- 7: Multiple Discrete Random Variables (p167-214)
+- 8: Conditional Probability Mass Functions (p215-246)
+- 9: Discrete N-Dimensional Random Variables (p247-284)
 
 #### Continuous
-- 10: Continuous Random Variables
-- 11: Expected Values for Continuous Random Variables
-- 12: Multiple Continuous Random Variables
-- 13: Conditional Probability Density Functions
-- 14: Continuous N-Dimensional Random Variables
-- 15: Probability and Moment Approximations Using Limit Theorems
+- 10: Continuous Random Variables (p285-342)
+- 11: Expected Values for Continuous Random Variables (p343-376)
+- 12: Multiple Continuous Random Variables (p377-432)
+- 13: Conditional Probability Density Functions (p433-456)
+- 14: Continuous N-Dimensional Random Variables (p457-484)
+- 15: Probability and Moment Approximations Using Limit Theorems (p485-514)
 
 #### Random Processes
-- 16: Basic Random Processes
-- 17: Wide Sense Stationary Random Processes
-- 18: Linear Systems and Wide Sense Stationary Random Processes
-- 19: Multiple Wide Sense Stationary Random Processes
-- 20: Guassian Random Processes
-- 21: Poisson Random Processes
-- 22: Markov Chains
+- 16: Basic Random Processes (p515-546)
+- 17: Wide Sense Stationary Random Processes (p547-596)
+- 18: Linear Systems and Wide Sense Stationary Random Processes (p597-640)
+- 19: Multiple Wide Sense Stationary Random Processes (p641-672)
+- 20: Guassian Random Processes (p673-710)
+- 21: Poisson Random Processes (p711-738)
+- 22: Markov Chains (p739-776)
