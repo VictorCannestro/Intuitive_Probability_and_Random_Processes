@@ -9,7 +9,7 @@ This repo is a compliation of my personal notes and attempts at problem sets tak
 #### Foundational Concepts
 - [x] 1: Introduction 
 - [x] 2: Computer Simulation 
-- 3: Basic Probability 
+- [x] 3: Basic Probability 
 - 4: Conditional Probability 
 
 #### Discrete
