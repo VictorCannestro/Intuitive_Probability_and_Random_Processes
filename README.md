@@ -37,10 +37,11 @@ This repo is a compliation of my personal notes and attempts at problem sets tak
 - 22: Markov Chains
 
 ## Breakdown
-Chapter|Problems|Chapter|Problems|Chapter|Problems|Chapter|Problems|Chapter|Problems  
--------|--------|-------|--------|-------|--------|-------|--------|-------|-------- 
-Ch1    |  16    |  Ch2  |   16   |   Ch3 |   50   |   Ch4 |   43   | Ch5   | 31       
-Ch6    |  32    |  Ch7  |   51   |   Ch8 |   32   |   Ch9 |   36   | Ch10  | 62         
-Ch11   |  47    |  Ch12 |   56   |   Ch13|   25   |   Ch14|   27   | Ch15  | 26          
-Ch16   |  34    |  Ch17 |   52   |   Ch18|   34   |   Ch19|   28   | Ch20  | 31     
-Ch21   |  25    |  Ch22 |   30   |       |        |       |        | **Total:**| 784     
+Chapter|Problems|Chapter|Problems|Chapter|Problems|Chapter|Problems
+-------|--------|-------|--------|-------|--------|-------|--------
+Ch1    |  16    |  Ch2  |   16   |   Ch3 |   50   |   Ch4 |   43       
+Ch5    |  31    |  Ch6  |  32    |  Ch7  |   51   |   Ch8 |   32          
+Ch9    |   36   | Ch10  |   62   | Ch11  |  47    |  Ch12 |   56           
+Ch13   |   25   |   Ch14|   27   | Ch15  |   26   |  Ch16 |   34     
+Ch17   |   52   |   Ch18|   34   |   Ch19|   28   | Ch20  |   31    
+Ch21   |  25    |  Ch22 |   30   |       |        | **Total:**| 784     
