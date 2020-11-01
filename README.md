@@ -10,7 +10,7 @@ This repo is a compliation of my personal notes and attempts at problem sets tak
 - [x] 1: Introduction 
 - [x] 2: Computer Simulation 
 - [x] 3: Basic Probability 
-- 4: Conditional Probability 
+- [x] 4: Conditional Probability 
 
 #### Discrete
 - 5: Discrete Random Variables 
