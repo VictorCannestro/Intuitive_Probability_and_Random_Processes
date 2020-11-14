@@ -13,7 +13,7 @@ This repo is a compliation of my personal notes and attempts at problem sets tak
 - [x] 4: Conditional Probability 
 
 #### Discrete
-- 5: Discrete Random Variables 
+- [x] 5: Discrete Random Variables 
 - 6: Expected Values for Discrete Random Variables 
 - 7: Multiple Discrete Random Variables 
 - 8: Conditional Probability Mass Functions 
