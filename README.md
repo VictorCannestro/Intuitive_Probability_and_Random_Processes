@@ -14,8 +14,8 @@ This repo is a compliation of my personal notes and attempts at problem sets tak
 
 #### Discrete
 - [x] 5: [Discrete Random Variables](https://github.com/VictorCannestro/Intuitive_Probability_and_Random_Processes/blob/master/CH5_Discrete_Random_Variables.ipynb) 
-- 6: Expected Values for Discrete Random Variables 
-- 7: Multiple Discrete Random Variables 
+- 6: [Expected Values for Discrete Random Variables](https://github.com/VictorCannestro/Intuitive_Probability_and_Random_Processes/blob/master/CH6_Expected_Values_for_Discrete_Random_Variables.ipynb)
+- 7: [Multiple Discrete Random Variables](https://github.com/VictorCannestro/Intuitive_Probability_and_Random_Processes/blob/master/CH7_Multiple_Discrete_Random_Variables.ipynb)
 - 8: Conditional Probability Mass Functions 
 - 9: Discrete N-Dimensional Random Variables 
 
