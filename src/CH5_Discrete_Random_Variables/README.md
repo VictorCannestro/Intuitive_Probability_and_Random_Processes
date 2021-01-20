@@ -21,7 +21,7 @@
 ![](https://latex.codecogs.com/svg.latex?p_Y[y_i]%20=%20\sum_{\{j:g(x_j)=y_i\}}{p_X[x_j]})
 
 ***
-The **Cumulative Distribution Function (CDF):** for a random variable ![](https://latex.codecogs.com/svg.latex?X) is the "running sum" which adds up the probabilities of the PMF starting at ![](https://latex.codecogs.com/svg.latex?-\infty) and ending at ![](https://latex.codecogs.com/svg.latex?\infty). It is the probabilites that ![](https://latex.codecogs.com/svg.latex?X) lies in the semi-interval ![](https://latex.codecogs.com/svg.latex?(-\infty,x]):
+The **Cumulative Distribution Function (CDF):** for a random variable ![](https://latex.codecogs.com/svg.latex?X) is the "running sum" which adds up the probabilities of the PMF starting at ![](https://latex.codecogs.com/svg.latex?-\infty) and ending at ![](https://latex.codecogs.com/svg.latex?\infty). It is the probabilites that ![](https://latex.codecogs.com/svg.latex?X) lies in the semi-interval ![]( https://latex.codecogs.com/svg.latex?(-\infty,x] ):
 
 ![](https://latex.codecogs.com/svg.latex?F_X(x)%20=%20P[X\leq%20x])
 
