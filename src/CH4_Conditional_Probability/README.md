@@ -39,7 +39,7 @@ Note: we must assume the **marginal probability** satisfies ![](https://latex.co
 
 ![](https://latex.codecogs.com/svg.latex?P[B|A]%20=%20\frac{P[A|B]P[B]}{P[A|B]P[B]%20+%20P[A|B^c]P[B^c]})
 
-where $P[B|A]$ is called the **posterior probability** and ![](https://latex.codecogs.com/svg.latex?P[B]) is called the **prior probability**. Moreover, if a set of ![](https://latex.codecogs.com/svg.latex?B_i)s partition the sample space, then Baye's Theorem can be stated as
+where ![](https://latex.codecogs.com/svg.latex?P[B|A]) is called the **posterior probability** and ![](https://latex.codecogs.com/svg.latex?P[B]) is called the **prior probability**. Moreover, if a set of ![](https://latex.codecogs.com/svg.latex?B_i)s partition the sample space, then Baye's Theorem can be stated as
 
 ![](https://latex.codecogs.com/svg.latex?P[B_k|A]%20=%20\frac{P[A|B_k]P[B_k]}{%20\sum_{i=1}^{N}{P[A|B_i]P[B_i]}%20})
 
@@ -51,7 +51,7 @@ where ![](https://latex.codecogs.com/svg.latex?k=1,2,\dots,%20N) and the denomin
 ![](https://latex.codecogs.com/svg.latex?P[k]%20=%20{M\choose%20k}p^k(1-p)^{M-k})
 
 ***
-- The **Geometric Probability Law** describes the probability of the first success at trial ![](https://latex.codecogs.com/svg.latex?k) if $![](https://latex.codecogs.com/svg.latex?M=k-1)$ independent Bernoulli trials have been carried out
+- The **Geometric Probability Law** describes the probability of the first success at trial ![](https://latex.codecogs.com/svg.latex?k) if ![](https://latex.codecogs.com/svg.latex?M=k-1) independent Bernoulli trials have been carried out
 
 ![](https://latex.codecogs.com/svg.latex?P[k]%20=%20p(1-p)^{k-1})
 
