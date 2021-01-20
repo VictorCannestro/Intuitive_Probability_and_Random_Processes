@@ -14,7 +14,7 @@
 ![](https://latex.codecogs.com/svg.latex?p_X[x_i]%20=%20\sum_{\{j:X(s_j)=x_i\}}{P[\{s_j\}]})
 
 ***
-**Transformation of a Random Variable** $Y=g(X)$. The PMF is:
+**Transformation of a Random Variable** ![](https://latex.codecogs.com/svg.latex?Y=g(X)). The PMF is:
 
 ![](https://latex.codecogs.com/svg.latex?p_Y[y_i]%20=%20P[g(x_j)%20=%20y_i])
 
