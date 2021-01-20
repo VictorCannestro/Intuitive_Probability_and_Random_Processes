@@ -15,7 +15,6 @@ Definition of **conditional probability** (for finite sample space) is the propo
 
 Note: we must assume the **marginal probability** satisfies ![](https://latex.codecogs.com/svg.latex?P[B]%20\neq%200). Also, the event ![](https://latex.codecogs.com/svg.latex?B) comprises a new sample space, denoted as the **reduced sample space**.
 
-***
 If ![](https://latex.codecogs.com/svg.latex?A) and ![](https://latex.codecogs.com/svg.latex?C) are mutually exclusive events, then
 
 ![](https://latex.codecogs.com/svg.latex?P[A\cup%20C|B]%20=%20P[A|B]%20+%20P[C|B])
@@ -58,7 +57,6 @@ The **Geometric Probability Law** describes the probability of the first success
 ***
 The **Multinomial Probability Law** describes the probability of obtaining ![](https://latex.codecogs.com/svg.latex?k_1) ![](https://latex.codecogs.com/svg.latex?s_1)'s, ![](https://latex.codecogs.com/svg.latex?k_2) ![](https://latex.codecogs.com/svg.latex?s_2)'s, ![](https://latex.codecogs.com/svg.latex?\dots), and ![](https://latex.codecogs.com/svg.latex?k_N) ![](https://latex.codecogs.com/svg.latex?s_N)'s from a sample space ![](https://latex.codecogs.com/svg.latex?S=\{s_1,%20s_2,%20\dots,%20s_N\}) where ![](https://latex.codecogs.com/svg.latex?M) independent Bernoulli trials were performed with ![](https://latex.codecogs.com/svg.latex?N) possible outcomes for each trial:
 
-
 ![](https://latex.codecogs.com/svg.latex?P[k_1,k_2,\dots,k_N]%20=%20%20{M%20\choose%20{k_1,k_2,\dots,k_N}}%20p_1^{k_1}%20p_2^{k_2}%20\dots%20p_N^{k_N})
 
 where 
@@ -75,7 +73,6 @@ and
 ![](https://latex.codecogs.com/svg.latex?P[A]%20=%20P[A_{M}|A_{M-1},\dots,A_2,A_1]P[A_{M-1}|A_{M-2},\dots,A_2,A_1]\cdots%20P[A_2|A_1]P[A_1])
 
 If the probabilities for trial ![](https://latex.codecogs.com/svg.latex?i) depend only on the outcome of the previous trial (i.e. it has a memory of ![](https://latex.codecogs.com/svg.latex?i-1)) then the sequence is called a **Markov sequence**. We can then reexpress the probability above as
-
 ![](https://latex.codecogs.com/svg.latex?P[A]%20=%20%20P[A_{M}|A_{M-1}]P[A_{M-1}|A_{M-2}]\cdots%20P[A_2|A_1]P[A_1])
 
 ![](https://latex.codecogs.com/svg.latex?P[A]%20=%20%20P[A_1]\prod_{i=2}^{M}{P[A_i|A_{i-1}]})
